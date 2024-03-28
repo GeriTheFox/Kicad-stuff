@@ -5220,8 +5220,27 @@
 			)
 		)
 		(symbol "pex8747_11_1"
+			(rectangle
+				(start 3.81 10.16)
+				(end -11.43 -10.16)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "PWR\n"
+				(at -3.556 8.636 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(pin power_in line
-				(at 3.81 36.83 180)
+				(at 7.62 6.35 180)
 				(length 3.81)
 				(name "VDD09"
 					(effects
@@ -5239,331 +5258,7 @@
 				)
 			)
 			(pin power_in line
-				(at 50.8 25.4 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 27.94 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 30.48 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 33.02 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 35.56 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 38.1 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 40.64 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 43.18 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 45.72 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 48.26 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 73.66 30.48 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 73.66 33.02 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 73.66 35.56 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 73.66 38.1 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 73.66 40.64 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 73.66 43.18 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 73.66 45.72 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 73.66 48.26 180)
-				(length 3.81)
-				(name "VDD09"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81)
 				(name "VDD09A"
 					(effects
@@ -5581,7 +5276,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 29.21 180)
+				(at 7.62 -1.27 180)
 				(length 3.81)
 				(name "VDD18"
 					(effects
@@ -5599,367 +5294,7 @@
 				)
 			)
 			(pin power_in line
-				(at 50.8 -11.43 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 -8.89 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 -6.35 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 -3.81 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 -1.27 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 1.27 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 3.81 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 6.35 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 8.89 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 50.8 11.43 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 -11.43 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 -8.89 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 -6.35 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 -3.81 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 -1.27 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 1.27 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 3.81 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 6.35 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 8.89 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 72.39 11.43 180)
-				(length 3.81)
-				(name "VDD18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 3.81 26.67 180)
+				(at 7.62 -3.81 180)
 				(length 3.81)
 				(name "VDD18A"
 					(effects
@@ -5977,151 +5312,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -6.35 180)
-				(length 3.81)
-				(name "VDD18A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 -3.81 180)
-				(length 3.81)
-				(name "VDD18A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 -1.27 180)
-				(length 3.81)
-				(name "VDD18A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 1.27 180)
-				(length 3.81)
-				(name "VDD18A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 3.81 180)
-				(length 3.81)
-				(name "VDD18A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 6.35 180)
-				(length 3.81)
-				(name "VDD18A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 8.89 180)
-				(length 3.81)
-				(name "VDD18A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 11.43 180)
-				(length 3.81)
-				(name "VDD18A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81)
 				(name "VSS"
 					(effects
@@ -6139,7 +5330,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6157,7 +5348,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6175,7 +5366,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6193,7 +5384,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6211,7 +5402,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6229,7 +5420,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6247,7 +5438,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6265,7 +5456,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6283,7 +5474,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6301,7 +5492,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6319,7 +5510,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6337,7 +5528,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6355,7 +5546,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6373,7 +5564,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6391,7 +5582,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6409,7 +5600,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6427,7 +5618,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6445,7 +5636,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6463,7 +5654,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6481,7 +5672,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6499,7 +5690,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6517,7 +5708,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6535,7 +5726,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6553,7 +5744,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6571,7 +5762,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6589,7 +5780,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6607,7 +5798,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6625,7 +5816,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6643,7 +5834,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6661,7 +5852,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6679,7 +5870,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6697,7 +5888,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6715,7 +5906,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6733,7 +5924,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6751,7 +5942,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6769,7 +5960,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6787,7 +5978,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6805,7 +5996,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6823,7 +6014,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6841,7 +6032,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6859,7 +6050,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6877,7 +6068,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6895,7 +6086,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6913,7 +6104,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6931,7 +6122,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6949,7 +6140,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6967,7 +6158,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -6985,7 +6176,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7003,7 +6194,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7021,7 +6212,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7039,7 +6230,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7057,7 +6248,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7075,7 +6266,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7093,7 +6284,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7111,7 +6302,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7129,7 +6320,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7147,7 +6338,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7165,7 +6356,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7183,7 +6374,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7201,7 +6392,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7219,7 +6410,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7237,7 +6428,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7255,7 +6446,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7273,7 +6464,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7291,7 +6482,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7309,7 +6500,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7327,7 +6518,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7345,7 +6536,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7363,7 +6554,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7381,7 +6572,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7399,7 +6590,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7417,7 +6608,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7435,7 +6626,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7453,7 +6644,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7471,7 +6662,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7489,7 +6680,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7507,7 +6698,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7525,7 +6716,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7543,7 +6734,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7561,7 +6752,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7579,7 +6770,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7597,7 +6788,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7615,7 +6806,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7633,7 +6824,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7651,7 +6842,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7669,7 +6860,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7687,7 +6878,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7705,7 +6896,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7723,7 +6914,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7741,7 +6932,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7759,7 +6950,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7777,7 +6968,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7795,7 +6986,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7813,7 +7004,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -7831,7 +7022,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7849,7 +7040,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7867,7 +7058,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7885,7 +7076,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7903,7 +7094,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7921,7 +7112,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7939,7 +7130,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7957,7 +7148,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7975,7 +7166,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -7993,7 +7184,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8011,7 +7202,43 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "G20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "G7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8029,7 +7256,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8047,7 +7274,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8065,7 +7292,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8083,7 +7310,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8101,7 +7328,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8119,7 +7346,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8137,7 +7364,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8155,7 +7382,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8173,7 +7400,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8191,7 +7418,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8209,7 +7436,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8227,7 +7454,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "H19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8245,7 +7490,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8263,7 +7508,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8281,7 +7526,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8299,7 +7544,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8317,7 +7562,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8335,7 +7580,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8353,7 +7598,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8371,7 +7616,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8389,7 +7634,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8407,7 +7652,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8425,7 +7670,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "H8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8443,7 +7706,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8461,7 +7724,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8479,7 +7742,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8497,7 +7760,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8515,7 +7778,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8533,7 +7796,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8551,7 +7814,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8569,7 +7832,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8587,7 +7850,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8605,7 +7886,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8623,7 +7904,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8641,7 +7922,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8659,7 +7940,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8677,7 +7958,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8695,7 +7976,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8713,7 +7994,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8731,7 +8012,43 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "K10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8749,7 +8066,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -3.81 180)
+				(length 3.81) hide
+				(name "VDD18A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "K12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8767,7 +8102,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8785,7 +8120,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -3.81 180)
+				(length 3.81) hide
+				(name "VDD18A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "K15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8803,7 +8156,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "K17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8821,7 +8192,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8839,7 +8210,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8857,7 +8228,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8875,7 +8246,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8893,7 +8264,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8911,7 +8282,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8929,7 +8300,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -8947,7 +8318,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8965,7 +8336,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -8983,7 +8354,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9001,7 +8372,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9019,7 +8408,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9037,7 +8444,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9055,7 +8480,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9073,7 +8498,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9091,7 +8516,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9109,7 +8534,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9127,7 +8552,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9145,7 +8570,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9163,7 +8588,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9181,7 +8606,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9199,7 +8624,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9217,7 +8642,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9235,7 +8660,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9253,7 +8678,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9271,7 +8696,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9289,7 +8714,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "M12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9307,7 +8750,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "M14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9325,7 +8786,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "M16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9343,7 +8822,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9361,7 +8840,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9379,7 +8858,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9397,7 +8876,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9415,7 +8894,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9433,7 +8912,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9451,7 +8930,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9469,7 +8948,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9487,7 +8966,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9505,7 +8984,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9523,7 +9002,43 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -3.81 180)
+				(length 3.81) hide
+				(name "VDD18A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9541,7 +9056,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9559,7 +9092,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9577,7 +9128,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -3.81 180)
+				(length 3.81) hide
+				(name "VDD18A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9595,7 +9164,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9613,7 +9182,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9631,7 +9200,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9649,7 +9218,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9667,7 +9236,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9685,7 +9254,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9703,7 +9272,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9721,7 +9290,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9739,7 +9308,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9757,7 +9326,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9775,7 +9362,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9793,7 +9398,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9811,7 +9434,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9829,7 +9452,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9847,7 +9470,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9865,7 +9488,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9883,7 +9506,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9901,7 +9524,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9919,7 +9542,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9937,7 +9560,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9955,7 +9578,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -9973,7 +9596,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -9991,7 +9614,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10009,7 +9632,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "R11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10027,7 +9668,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "R13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10045,7 +9704,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "R15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10063,7 +9740,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10081,7 +9758,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10099,7 +9776,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10117,7 +9794,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10135,7 +9812,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10153,7 +9830,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10171,7 +9848,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10189,7 +9866,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10207,7 +9884,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10225,7 +9902,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10243,7 +9920,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10261,7 +9938,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10279,7 +9956,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10297,7 +9974,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10315,7 +10010,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10333,7 +10046,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 6.35 180)
+				(length 3.81) hide
+				(name "VDD09"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10351,7 +10082,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10369,7 +10100,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10387,7 +10118,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10405,7 +10136,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10423,7 +10154,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10441,7 +10172,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10459,7 +10190,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10477,7 +10208,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10495,7 +10226,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10513,7 +10244,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10531,7 +10262,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10549,7 +10298,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -3.81 180)
+				(length 3.81) hide
+				(name "VDD18A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10567,7 +10334,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10585,7 +10352,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -3.81 180)
+				(length 3.81) hide
+				(name "VDD18A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10603,7 +10388,25 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10621,7 +10424,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10639,7 +10442,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10657,7 +10460,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10675,7 +10478,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10693,7 +10496,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10711,7 +10514,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10729,7 +10532,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10747,7 +10550,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10765,7 +10568,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10783,7 +10586,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10801,7 +10604,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10819,7 +10622,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10837,7 +10640,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10855,7 +10658,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10873,7 +10676,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10891,7 +10694,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10909,7 +10712,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -10927,7 +10730,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10945,7 +10748,43 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10963,7 +10802,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10981,7 +10820,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -10999,7 +10838,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11017,7 +10856,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11035,7 +10874,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11053,7 +10892,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11071,7 +10910,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11089,7 +10928,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11107,7 +10946,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11125,7 +10964,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11143,7 +10982,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11161,7 +11000,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11179,7 +11018,43 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "V9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11197,7 +11072,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11215,7 +11090,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11233,7 +11108,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11251,7 +11126,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11269,7 +11144,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11287,7 +11162,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11305,7 +11180,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11323,7 +11198,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11341,7 +11216,79 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "W8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11359,7 +11306,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11377,7 +11324,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11395,7 +11342,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11413,7 +11360,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11431,7 +11378,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11449,7 +11396,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11467,7 +11414,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11485,7 +11432,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11503,7 +11450,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -11521,7 +11468,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11539,7 +11486,43 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 22.86 180)
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "Y20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -1.27 180)
+				(length 3.81) hide
+				(name "VDD18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "Y7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 -7.62 180)
 				(length 3.81) hide
 				(name "VSS"
 					(effects
@@ -11557,7 +11540,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 34.29 180)
+				(at 7.62 3.81 180)
 				(length 3.81) hide
 				(name "VDD09A"
 					(effects
@@ -12542,6 +12525,63 @@
 					)
 				)
 				(number "Y24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "pex8747_13_1"
+			(rectangle
+				(start 0 -6.35)
+				(end -19.05 5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "Thermal Diode"
+				(at -8.636 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(pin input line
+				(at 3.81 0 180)
+				(length 3.81)
+				(name "THERMAL_DIODEn"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AC24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 3.81 -3.81 180)
+				(length 3.81)
+				(name "THERMAL_DIODEp"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AF25"
 					(effects
 						(font
 							(size 1.27 1.27)
